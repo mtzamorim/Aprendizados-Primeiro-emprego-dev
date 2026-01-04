@@ -1,0 +1,19 @@
+Ferramentas utilizadas durante primeiro trabalho de Desenvolvedor
+
+No dia 6 de Janeiro de 2025 iniciei minha jornada como Estagiário como Desenvolvedor FullStack e atualmente estou como Júnior, lá trabalhamos com várias ferramentas, entre elas:
+
+Na parte do Frontend utilizamos Typescript e React como principais, utilizamos Shadcn para componentes prontos que podemos reutiliza-los durante o código e estilizar da forma que acharmos melhor, também tem o Tailwind que realmente to gostando de usar pela facilidade de estilização, um CSS inline que com a extensão do vscode para tailwind facilita bastante o uso de encontrar estilos que podemos usar e explica direitinho o que faz.
+
+No backend utilizamos Typescript novamente, Nodejs e o framework Express, usamos PrismaOrm para facilitar a criação do banco por meio de schemas, ele por meio de migrações faz a criação de linhas no banco de dados, em prol disso também usamos Postgree para gerenciamento de banco de dados, tá sendo bem legal essa parte por conta que eu gostava muito mais do frontend e agora tendo a possibilidade de usar os dois eu estou gostando muito mais do backend, criar rotas, segurança, essas coisas.
+
+Usamos também algumas ferramentas como Playwright para ajudar na automatização e testes tanto de frontend e backend, no inicio eu peguei várias tarefas de Playwright e me dei super bem (uma futura especialização rsrs).
+
+Há também o Docker que é onde fica salva na nuvem todos nossos containers, tanto ambientes de testes, banco de dados, produção, por esses tempos tive a oportunidade de mexer um pouco em ambiente de produção, subida de branch em tempo real, quais pastas necessárias pra subir, muita coisa que vai além da minha compreensão mas que não é bicho de 7 cabeças.
+
+Além do Docker, tem o Jenkins que lá a gente tem alguns ambientes que a gente programou pra subir uma branch especifica do nosso projeto, lá também a gente roda nossa automação que criamos usando o Playwright, pra fazer merges, evitar retrabalho que um dev mexe em uma coisa e quebra o código todo e graças a isso já reduzimos em 90% dos problemas.
+
+Algumas outras que usamos mas que nunca tinha chegado a usar na prática foi o Postman, onde lá testamos as rotas criadas pelo backend, tem o swagger também que nunca tinha utilizado pra documentar alguma API mas hoje já me acho fera utilizando kkkkk.
+
+Atualmente to mais responsável pela correção de código de outros desenvolvedores que trabalham comigo, além de produzir features pra empresa, propor melhorias, me alinhar constantemente com meu coordenador, auxiliar outros devs em duvidas e resolver problemas que tão enfrentando, to achando bem legal o processo por mais que dificil seja, aprender um milhão de coisas, eu me achava bom em HTML, CSS e Javascript antes de iniciar o estágio e isso realmente foi um diferencial pra ter um destaque na empresa, hoje sou referência no trabalho (pelo menos eu acho) por ser um dos que não entraram por indição (lá a maioria é primo de alguém, conhecido de não sei quem), lá sou apenas eu e isso foi um pouco do que eu estou tirando de aprendizado, meio que um tech leader disfarçado, além de ja ter sido Scrum master, iniciar dailys, direcionar inicio de trabalho, destravar as pessoas nas tasks.
+
+Estou me especializando a cada dia, melhorando meu Typescript, React, Node, JS, pra que se torne mais natural e eu também ir pegando um pouco da infraestrutura do projeto.
